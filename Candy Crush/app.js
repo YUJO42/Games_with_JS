@@ -82,4 +82,9 @@ document.addEventListener('DOMContentLoaded', () => {
     this.style.backgroundColor = colorBeingDragged;
     squares[squareIdBeingDragged].style.backgroundColor = colorBeingReplaced;
   }
+
+  // Checking for matches
+  // check for row of Three
+
+  //
 });
